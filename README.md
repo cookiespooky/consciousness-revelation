@@ -149,7 +149,6 @@ Every run writes only raw rows. All figures and verdicts are derived from those 
 | `stability.py` | convergence criterion, `k_c` with bisection, `λ_max` by Benettin |
 | `analysis*.py` | cluster bootstrap by seed, median regression, preregistered verdicts |
 | `run_final.py` | **the preregistration is in this file's docstring** |
-| `writeups/` | write-ups: an arXiv-style note and a LessWrong post |
 | `archive/` | the first architecture, kept for provenance of the v1 numbers |
 
 ## Limitations
